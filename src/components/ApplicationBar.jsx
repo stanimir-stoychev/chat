@@ -66,7 +66,7 @@ export default function ApplicationBar() {
         <AppBar position="static">
             <Toolbar>
                 <Typography variant="h6" className={classes.title}>
-                    Wild code school chat
+                    Simple chat
                 </Typography>
                 {user ? (
                     <>
